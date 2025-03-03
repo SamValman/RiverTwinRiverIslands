@@ -1,4 +1,6 @@
-# This is the repository for the PhD chapter and article both under the name: "Rapid revisit data from satellites for monitoring the impact of drought on the Madeira River, Amazon basin"
+#  "Rapid revisit data from satellites for monitoring the impact of drought on the Madeira River, Amazon basin"
+This is the repository for the PhD chapter (4) of Univeristy of Nottingham, Samuel Valmans PhD, and an article under the same name.
+The article is currently being reviewed in Science of Remote Sensing. 
 
 The imagery is not available as it is proprietry however using the information in the article it is possible to download these images and carry out the analysis or adapt it for a different river system
 

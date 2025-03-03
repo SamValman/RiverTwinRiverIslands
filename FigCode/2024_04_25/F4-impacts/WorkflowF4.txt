@@ -1,0 +1,22 @@
+A - D top row is islands 
+E - G is width
+
+
+legend A-D = isolated pool
+legend E-G = centreline
+
+locate the four images 
+just for C and D:
+use ndimage to get the shapes: 
+      -also export these 
+      - get some stats for size :
+1st was too small on pannel d so dilated *6 for visibility
+choose a river for E - G == DS_18 channel closure and narrowing 
+Hopefully it has two channels, 1 that closes and 1 that narrows
+
+get centerlines, locate both 
+print over real images - going to need to be remade as shp  
+print distances. 
+
+put in Q 
+combine into graph 
